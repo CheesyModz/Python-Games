@@ -18,3 +18,6 @@ Controls are listed in the file of the game `README.md`
 
 # Goal
 Goals are listed in the folder of the game `README.md`
+
+# Recommeneded
+Download and play Space-Hunt or Super Break-Out!
