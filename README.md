@@ -1,4 +1,6 @@
 # Python-Games
+Games created using python and pygame (except Connect Four)
+
 # How to run any of the game listed above
 1. Download Python (Newest version)
 2. Download pygame typing the command `pip install pygame` in the command shell prompt
