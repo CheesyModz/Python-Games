@@ -13,3 +13,6 @@ Use the the arrows keys to move around
 
 # Goal
 Eat cherries
+
+# Preview
+![Pacman](https://user-images.githubusercontent.com/49135331/141499494-146cdbf4-d959-454e-b6a1-7b3289e29dd6.png)
