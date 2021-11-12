@@ -17,6 +17,17 @@ Similar concept to the game *Duck Hunt*
 # Point System 
 Once you run SpaceHunt.py click on the instructions box for the point system
 
+# Preview
+Home Screen:
+![Space-Hunt1](https://user-images.githubusercontent.com/49135331/141499592-5acef189-9eb1-4941-b96d-f34c8f725f4f.png)
+
+Instructions Screen:
+![Space-Hunt2](https://user-images.githubusercontent.com/49135331/141499647-fad7fbb5-131e-4ef5-a3b5-a4b70cef0163.png)
+
+In Game Screen:
+![Space-Hunt3](https://user-images.githubusercontent.com/49135331/141499670-8fe8d27e-8ffc-4ce2-aead-4130467879af.png)
+
+
 # Credits
 Coded by Gary Huang
 Spinning earth background by Mark Xue
