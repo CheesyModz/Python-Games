@@ -12,3 +12,6 @@ Use the arrow keys '<' to move left and '>' to move right
 
 # Goal
 Break all the bricks while not dying
+
+# Preview
+![Super Break-out](https://user-images.githubusercontent.com/49135331/141499777-228a9996-406d-4fd4-bb75-eb25e8f6dc6e.png)
