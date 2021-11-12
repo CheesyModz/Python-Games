@@ -27,3 +27,6 @@ Goals are listed in the folder of the game `README.md`
 
 # Recommeneded
 Download and play Space-Hunt or Super Break-Out!
+
+# Preview
+Each game has a preview listed below in their files (besides defense)
